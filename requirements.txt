@@ -1,0 +1,9 @@
+library:
+-openCV
+-mediapipe
+-numpy
+-Tkinter
+-Pillow
+-pickle
+
+-python 3.12.5 64bit
