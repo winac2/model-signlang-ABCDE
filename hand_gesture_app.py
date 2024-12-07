@@ -1,3 +1,5 @@
+'''by "winac2-NSDK" - ndkhoi234@gmail.com'''
+
 import cv2
 import mediapipe as mp
 import numpy as np
